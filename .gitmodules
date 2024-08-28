@@ -1,0 +1,3 @@
+[submodule "03DigitalClock"]
+	path = 03DigitalClock
+	url = git@github.com:GaudeamoDev/03DigitalClock.git
